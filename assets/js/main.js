@@ -16,10 +16,10 @@ document.write(alter);
 
 let b = 5;
 let a = b * 5 -3;
-alert(a);
+/* alert(a); */
 
 let mann = "Robert Wadlow ist der größte Mann der Welt : ";
 let grosse = "2,72m";
-alert(mann + grosse);
+/* alert(mann + grosse); */
 
-document.write(`<h3>${mann} ist der größte Mann der Welt${grosse}</h3>`);
+document.write(`<h3>${mann}ist der größte Mann der Welt${grosse}</h3>`);
